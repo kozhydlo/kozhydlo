@@ -1,110 +1,115 @@
+<br clear="both">
+
 <div align="center">
-	
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
+
+###
+
+<h1 align="center">Hello👋 My name is Mark</h1>
+
+###
+
 <div align="center">
-  <a><strong>OPERATING SYSTEMS</strong></a>
+  <a href="https://t.me/Kozhydlom" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
 </div>
+
+
+###
+
+<h3 align="left">👩‍💻  About me</h3>
+
+###
+
+I started my programming journey in 2019 with C++, focusing primarily on Arduino projects. This initial year helped me understand the fundamentals of programming and the logic behind it. After a year of exploring C++, I transitioned to Python, where I spent 1.5 years developing my skills. Python's versatility allowed me to work on various projects, further enhancing my coding abilities. Now, I am fully immersed in Full Stack Development. I have completed courses at Soft Serve Academy, where I learned modern web development technologies. I enjoy building both the frontend and backend of web applications, allowing me to create complete solutions from scratch.
+
+* 🌍  I'm based in Ukraine, Lviv
+* 🖥️  See my portfolio at [MyPortfolio](http://kozhydlomark-portfolio.vercel.app/)
+* ✉️  You can contact me at [markkozhydlo@gmail.com](mailto:markkozhydlo@gmail.com)
+* 🧠  I'm learning Vue.js
+
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+###
+
+<h3 align="left">🛠  Skills:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="postgresql logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="postgresql logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="postgresql logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="postgresql logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="postgresql logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="postgresql logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="postgresql logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="postgresql logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="postgresql logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="postgresql logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="postgresql logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="postgresql logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="postgresql logo"  />
+
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="postgresql logo"  />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥 Statistics :</h3>
+
+###
+
 <div align="center">
-	<a href="https://support.microsoft.com/ru-ru/windows/" style="user-select: none; text-decoration: none;">
-		<img alt="logo"
-			src="https://img.shields.io/badge/windows-323330?style=for-the-badge&logo=windows&logoColor=%230078D6" />
-	</a>
-	<a href="https://www.android.com/intl/ru_ru/" style="user-select: none; text-decoration: none;">
-		<img alt="logo" src="https://img.shields.io/badge/android-323330?style=for-the-badge&logo=android" />
-	</a>
-	
+  <img src="https://streak-stats.demolab.com?user=kozhydlo&theme=dark&hide_border=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0" alt="GitHub Streak" />
 </div>
+
+###
+
 <div align="center">
-  <a><strong>CODE EDITORS</strong></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kozhydlo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kozhydlo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<div align="center">
-	<a href="https://www.sublimetext.com/" style="user-select: none; text-decoration: none;">
-		<img alt="logo" src="https://img.shields.io/badge/sublimetext-323330?style=for-the-badge&logo=sublimetext" />
-	</a>
-	<a href="https://code.visualstudio.com/" style="user-select: none; text-decoration: none;">
-		<img alt="logo"
-			src="https://img.shields.io/badge/vscode-323330?style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC" />
-	</a>
-</div>
-<div align="center">
-  <a><strong>PROGRAMMING LANGUAGES</strong></a>
-</div>
-<div align="center">
-	<a href="https://nodejs.org/en/" style="user-select: none; text-decoration: none;">
-		<img alt="logo" src="https://img.shields.io/badge/node.js-323330?style=for-the-badge&logo=nodedotjs" />
-	</a>
-	<a href="https://developer.mozilla.org/ru/docs/Learn/JavaScript/First_steps/What_is_JavaScript/"
-		style="user-select: none; text-decoration: none;">
-		<img alt="logo" src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript" />
-	</a>
-	<a href="https://www.typescriptlang.org/" style="user-select: none; text-decoration: none;">
-		<img alt="logo" src="https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=typescript" />
-	</a>
-	<a href="https://www.python.org/" style="user-select: none; text-decoration: none;">
-		<img alt="logo" src="https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python" />
-	</a>
-	
-</div>
-<div align="center">
-  <a><strong>DATABASES</strong></a>
-</div>
-<div align="center">
-	<a href="https://www.mysql.com/" style="user-select: none; text-decoration: none;">
-		<img alt="logo" src="https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql" />
-	</a>
-	<a href="https://www.mongodb.com/" style="user-select: none; text-decoration: none;">
-		<img alt="logo" src="https://img.shields.io/badge/mongodb-323330?style=for-the-badge&logo=mongodb" />
-	</a>
-	
-</div>
-<div align="center">
-  <a><strong>STRUCTURED STORAGES</strong></a>
-</div>
-<div align="center">
-	<a href="https://developer.mozilla.org/ru/docs/Learn/JavaScript/Objects/JSON/"
-		style="user-select: none; text-decoration: none;">
-		<img alt="logo" src="https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json" />
-	</a>
-	<a href="https://www.dotenv.org/docs/security/env.html" style="user-select: none; text-decoration: none;">
-		<img alt="logo" src="https://img.shields.io/badge/.env-323330?style=for-the-badge&logo=dotenv" />
-	</a>
-</div>
-<div align="center">
-  <a><strong>FRONT</strong></a>
-</div>
-<div align="center">
-	<a href="https://ru.wikipedia.org/wiki/HTML5/" style="user-select: none; text-decoration: none;">
-		<img alt="logo" src="https://img.shields.io/badge/html-323330?style=for-the-badge&logo=html5" />
-	</a>
-	<a href="https://ejs.co/" style="user-select: none; text-decoration: none;">
-		<img alt="logo" src="https://img.shields.io/badge/ejs-323330?style=for-the-badge&logo=readdotcv" />
-	</a>
-	<a href="https://developer.mozilla.org/ru/docs/Web/CSS/Reference/" style="user-select: none; text-decoration: none;">
-		<img alt="logo"
-			src="https://img.shields.io/badge/css-323330?style=for-the-badge&logo=css3&logoColor=%231572B6" />
-	</a>
-</div>
-<HR>
-<div align="center">
-  <a><strong>USE OF LANGUAGES</strong></a>
-</div>
-<div align="center">
-	<a href="#" style="user-select: none; text-decoration: none;">
-		<img alt="stats"
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaKarastY&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
-	</a>
-</div>
-<div align="center">
-  <a><strong>SOCIALS</strong></a>
-</div>
-<div align="center">
-	<a href="https://github.com/kozhydlo" style="user-select: none; text-decoration: none;">
-		<img alt="logo" src="https://img.shields.io/badge/github-323330?style=for-the-badge&logo=github" />
-	</a>
-</div>
-<div align="center">
-	<a href="https://t.me/Kozhydlom/" style="user-select: none; text-decoration: none;">
-		<img alt="logo" src="https://img.shields.io/badge/telegram-323330?style=for-the-badge&logo=telegram" />
-	</a>
-	
-</div>
+
+###
