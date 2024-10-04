@@ -38,7 +38,50 @@ I started my programming journey in 2019 with C++, focusing primarily on Arduino
 
 ###
 
-<h3 align="left">🛠  Skills:</h3>
+<h3 align="left">📱  My Social:</h3>
+
+<div align="left">
+  <a href="https://gitlab.com/kozhydlomark2010">
+   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  </a>
+    <img width="12" />
+  <a href="https://www.instagram.com/kozhydlomark/">
+   <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
+  </a>
+ 
+</div>
+
+###
+
+<h3 align="left">🛠  My tools:</h3>
+
+<div align="left">
+   <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo"  />
+    <img width="12" />
+   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
+    <img width="12" />
+   <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="yarn logo"  />
+    <img width="12" />
+   <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+    <img width="12" />
+   <img src="https://skillicons.dev/icons?i=figma	" height="40" alt="figma	 logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+
+
+ 
+</div>
+
+
+###
+
+<h3 align="left">🧠  Skills:</h3>
 
 ###
 
@@ -89,10 +132,7 @@ I started my programming journey in 2019 with C++, focusing primarily on Arduino
 <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="postgresql logo"  />
 
-<img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="postgresql logo"  />
-<img width="12" />
-  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="postgresql logo"  />
+
 </div>
 
 ###
