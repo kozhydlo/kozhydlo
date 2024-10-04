@@ -70,8 +70,6 @@ I started my programming journey in 2019 with C++, focusing primarily on Arduino
    <img width="12" />
    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
     <img width="12" />
-   <img src="https://skillicons.dev/icons?i=figma	" height="40" alt="figma	 logo"  />
-   <img width="12" />
    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 
 
