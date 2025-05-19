@@ -23,7 +23,7 @@
 
 ###
 
-I started my programming journey in 2019 with C++, focusing primarily on Arduino projects. This initial year helped me understand the fundamentals of programming and the logic behind it. After a year of exploring C++, I transitioned to Python, where I spent 1.5 years developing my skills. Python's versatility allowed me to work on various projects, further enhancing my coding abilities. Now, I am fully immersed in Full Stack Development. I have completed courses at Soft Serve Academy, where I learned modern web development technologies. I enjoy building both the frontend and backend of web applications, allowing me to create complete solutions from scratch.
+I started my programming journey in 2019 with C++, focusing primarily on Arduino projects. This initial year helped me understand the fundamentals of programming and the logic behind it. After a year of exploring C++, I transitioned to Python, where I spent 1.5 years developing my skills. Python's versatility allowed me to work on various projects, further enhancing my coding abilities. Now, I am fully immersed in Full Stack Development. I have completed courses at SoftServe Academy, where I learned modern web development technologies. I enjoy building both the frontend and backend of web applications, allowing me to create complete solutions from scratch.
 
 * 🌍  I'm based in Ukraine, Lviv
 * 🖥️  See my  [website](https://kozhydlo.vercel.app/)
