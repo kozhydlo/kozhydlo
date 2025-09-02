@@ -42,19 +42,6 @@ I completed Full Stack training at **SoftServe Academy**, including two core dir
 
 ---
 
-### 🌐 Socials
-
-<div align="left">
-  <a href="https://gitlab.com/kozhydlomark2010">
-    <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab" />
-  </a>
-  <a href="https://www.instagram.com/kozhydlomark/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram" />
-  </a>
-</div>
-
----
-
 ### 🛠 Tools I Use
 
 <div align="left">
