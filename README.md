@@ -32,7 +32,7 @@ I completed Full Stack training at **SoftServe Academy**, including two core dir
 - 🖥️ Portfolio: [kozhydlo.vercel.app](https://kozhydlo.vercel.app)
 - ✉️ Email: [markkozhydlo@gmail.com](mailto:markkozhydlo@gmail.com)
 - 💪 Hobby: **Fitness / Gym — Discipline fuels my dev grind**
-- 🔭 Currently exploring: **Vue.js**
+- 🔭 Currently exploring: **C#**
 
 ---
 
